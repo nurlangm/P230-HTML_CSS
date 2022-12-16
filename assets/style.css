@@ -1,0 +1,153 @@
+.form .info h1{
+    display: inline;
+
+}
+.form .info{
+    float:right;
+    margin-top:5%;
+}
+.form .info span{
+    float: right;
+}
+.border{
+    width:1000px;
+    margin: auto;
+    height: auto;
+    border:30px solid orange;
+}
+.form{
+    width:930px;
+    height: auto;
+    margin: auto;
+}
+.form .profilphoto img{
+    width: 100px;
+    margin-top: 3%;
+}
+.form .profilphoto{
+    display:inline;
+}
+/* Personal Start */
+.personal_details .heading hr{
+    background-color:black;
+    height:5px;
+}
+.personal_details .heading h1{
+    display: inline;
+}
+.personal_details .heading{
+    margin-top:10px;
+}
+
+.personal_details .infos ul li span{
+    margin-left:60px;
+
+}
+/* Personal end */
+
+/* Education Start */
+.education .heading hr{
+    background-color:black;
+    height:5px;
+}
+
+.education .heading h1{
+    display:inline;
+}
+
+.education{
+    margin-top:40px;
+}
+.education .text .information p{
+    margin-left:30px;
+}
+.education .text .date{
+    float: right;
+    
+}
+.education .text .name .head{
+    display: inline;
+}
+.education .text .name {
+    display: inline;
+}
+.education .text .name .date{
+    background-color:black;
+}
+.education .text .name .date p{
+    color: white;
+    width:100px;
+    height: 2px;
+    text-align: right;
+    margin-top:0px;
+}
+/* Education end */
+
+/* Experience Start */
+
+.workexperience .heading hr{
+    background-color:black;
+    height:5px;
+}
+
+.workexperience .heading h1{
+    display:inline;
+}
+.workexperience{
+    margin-top:40px;
+}
+.workexperience .text .date{
+    float: right;
+    
+}
+.workexperience .text .name .date{
+    background-color:black;
+}
+.workexperience .text .name .date p{
+    color: white;
+    width:100px;
+    height: 2px;
+    text-align: right;
+    margin-top:0px;
+}
+.workexperience .text .information p{
+    margin-left:30px;
+}
+/* Experience end */
+
+/* Skills Start */
+.skills .heading hr{
+    background-color:black;
+    height:5px;
+}
+
+.skills .heading h1{
+    display:inline;
+}
+.skills{
+    margin-top:40px;
+}   
+ul{
+    list-style-type: none;
+}
+.skills .lang span{
+    margin-left: 50px;
+}
+
+.skills .soft span{
+    margin-left: 30px;
+}
+/* Skills end */
+
+/* References Start */
+.references .heading hr{
+    background-color:black;
+    height:5px;
+}
+
+.references .heading h1{
+    display:inline;
+}
+.workexpreferenceserience{
+    margin-top:40px;
+}
